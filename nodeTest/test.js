@@ -2,7 +2,7 @@
 // // * @Author: Administrator
 // // * @Date:   2016-12-21 15:17:40
 // // * @Last Modified by:   Administrator
-// // * @Last Modified time: 2017-06-20 16:29:56
+// // * @Last Modified time: 2017-06-21 10:30:57
 // // */
 
 // // // 'use strict';
@@ -710,5 +710,3 @@
 // console.log(param);
 // 
 // 
-var s = [{"img":"1212132","content":"dsadasdsa"},{"img":"12121324444444444","content":"dsadasdsa"},{"img":"1212132333333333","content":"dsadasdsa"}];
-console.log(s.join("<<>>"));
