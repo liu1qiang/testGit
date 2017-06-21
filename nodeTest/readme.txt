@@ -5,7 +5,7 @@ git clone URL
 
 3、进入到本地项目托管文件夹  cd 文件名
 
-4、git add .  将改动的地方添加到版本管理器
+4、git add .  将改动的地方添加到版本管理器:.是代表把所有的添加到版本管理器，可直接添加文件名：git add 2.js
 
 5、git  commit -m "changes log"  
 提交到本地的版本控制库里，
